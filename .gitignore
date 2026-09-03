@@ -1,0 +1,9 @@
+# Материалы курса — не публикуются
+course_static/
+
+# Служебное
+.DS_Store
+__pycache__/
+*.pyc
+.venv/
+.env
